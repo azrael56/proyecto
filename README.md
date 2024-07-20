@@ -20,3 +20,17 @@ Este proyecto es una aplicación web desarrollada utilizando diversas tecnologí
 
 El proyecto está organizado en los siguientes directorios y archivos principales:
 
+## Requisitos
+
+- Python 3.x
+- Django 3.x
+- Git
+
+## Instalación
+
+1. Clona el repositorio:
+
+   ```bash
+   git clone https://github.com/azrael56/proyecto.git
+
+
